@@ -12,8 +12,12 @@
 <h5>Планы:</h5>
 
 Учу дополнительно фронтенд, верстку, а также веб дизайн.<br>В репо есть проеты которые можете посмотреть, некоторые я верстал по урокам. Также ссылки на github pages:<br>
-<a href='https://zoreyan.github.io/LoftHouse/'>LoftHouse</a>
-<a href='https://zoreyan.github.io/Fairy-Forest/'>Fairy Forest</a>
+
+
+<ul>
+  <li><a href='https://zoreyan.github.io/LoftHouse/'>LoftHouse</a></li>
+  <li><a href='https://zoreyan.github.io/Fairy-Forest/'>Fairy Forest</a></li>
+ </ul>
 
 <h5>Мои контакты:</h5>
 <ul>
