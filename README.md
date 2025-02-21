@@ -23,7 +23,7 @@
 
 ### **Ключевые навыки**  
 - Python, Django, REST API.
-- Docker, Git, Github CI/CD.
+- Docker, Git, Github Actions, Celery, Redis, RabbitMQ.
 - Frontend: HTML, CSS, Bootstrap.  
 - Управление проектами и командное взаимодействие.  
 - Образовательные методики и менторство.  
