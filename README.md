@@ -1,8 +1,7 @@
 
 ### 👋Абдуллах
 <a href='https://t.me/AbdullohMahmutov' target='_blank'>![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)</a>
-
-Full stack разработчик | Ментор | Автоматизация бизнеса
+### Full stack разработчик | Ментор | Автоматизация бизнеса
 ---
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![Django](https://img.shields.io/badge/Django-4.0-green?logo=django)
@@ -25,7 +24,7 @@ Full stack разработчик | Ментор | Автоматизация б
 ![Mentorship](https://img.shields.io/badge/Mentorship-1%2B_year-blue?style=flat&logo=teach&logoColor=white)
 ![Team Management](https://img.shields.io/badge/Team_Management-%F0%9F%A4%B5-blue?style=flat&logo=teams&logoColor=white)
 ![Code Review](https://img.shields.io/badge/Code_Review-%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB-critical?style=flat&logo=git&logoColor=white)
-### Проекты
+### Ключевые проекты
 - 🧑‍🎓LMS платформа под 🔑ключ с ролями, журналом и экзаминированием.
 - 🛒POS платформа для автоматизации продаж с регистрацией и 💳оплатой услуг через 📨телеграм бота.
 ### Soft skills
@@ -34,4 +33,5 @@ Full stack разработчик | Ментор | Автоматизация б
 - 🗨️Ипользование методологий Scrum, Agile и Kanban.
 - 🤵Управление командой и наставничество.
 - 🧑‍💻Умение делать код ревью
+- ⏳Time Management
   
