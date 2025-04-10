@@ -18,10 +18,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-2C2D72?logo=telegram&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-### Сейчас изучаю
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-323232?logo=sqlalchemy&logoColor=red)
 
 ### Ключевые проекты
 - 🧑‍🎓<a href='https://github.com/Zoreyan/AVN-Medrese'>LMS</a> платформа под 🔑ключ с ролями, журналом и экзаминированием(Django, MySQL).
