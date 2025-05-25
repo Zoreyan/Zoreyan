@@ -22,7 +22,7 @@ Backend-разработчик с опытом командной разрабо
 
 - Провожу курсы по backend-разработке (Python, Django, DevOps) для 30+ студентов  
 - Курирую командные проекты, имитирующие реальную работу в команде  
-- Разработал с нуля внутреннюю LMS-систему для учебного центра — [Medrese](https://github.com/Zoreyan/AVN-Medrese)  
+- Разработал с нуля внутреннюю LMS-систему для учебного центра — [Medrese](https://github.com/Zoreyan/Tahfiz-LMS)  
 - Настроил DevOps-инфраструктуру и CI/CD для студенческих проектов  
 - Проводил code review, участвовал в найме и адаптации junior-разработчиков
 
@@ -32,7 +32,7 @@ Backend-разработчик с опытом командной разрабо
 Автоматизация продаж, складской учёт и отчётность.  
 Stack: Django, DRF, PostgreSQL, Docker, Celery, Redis  
 
-**AVN Medrese LMS** — [GitHub](https://github.com/Zoreyan/AVN-Medrese)  
+**AVN Medrese LMS** — [GitHub](https://github.com/Zoreyan/Tahfiz-LMS)  
 Система управления курсами, расписанием и студентами.  
 Stack: Django, HTML/CSS, PostgreSQL, GitHub Actions
   
